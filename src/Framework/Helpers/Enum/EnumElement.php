@@ -1,5 +1,7 @@
 <?php
 
+namespace ModuleBZ\Framework\Helpers\Enum;
+
 /**
  * Описываем класс для элемента Enum
  * Class EnumElement
