@@ -2,6 +2,8 @@
 
 namespace ModuleBZ\Framework\Helpers;
 
+use ModuleBZ\Framework\Helpers\Enum\EnumElement;
+
 /**
  * Описываем абстрактный класс, который умеет инициализировать список вариантов используя собственные статичные переменные
  * Class ENum
